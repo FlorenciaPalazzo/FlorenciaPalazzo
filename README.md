@@ -1,7 +1,9 @@
 
 
 
-![Diseño-Banner](https://user-images.githubusercontent.com/88751880/174690972-800f5bc3-f0b7-4151-a586-34ba78cc9f32.jpg)
+
+
+![Diseño-Banner](https://user-images.githubusercontent.com/88751880/174693195-0812368e-f642-4441-8d41-a3281bb70c91.jpg)
 
 
 
