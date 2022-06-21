@@ -11,14 +11,14 @@
 💻Tecnologías:
 
 ➡Frontend:
-  ◻js: React, Redux
-  ◻css: Bootstrap
+  🔸js: React, Redux
+  🔸css: Bootstrap
 
 ⬅Backend:
-  ◻js:Node, Express
+  🔸js:Node, Express
 
 🛢Base de datos:
-  ◻PostgreSQL
+  🔸PostgreSQL
 
 💬 Podes preguntarme acerca de: JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequelize.
   
