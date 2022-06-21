@@ -1,9 +1,9 @@
 
 
 
+![Diseño-Banner](https://user-images.githubusercontent.com/88751880/174690972-800f5bc3-f0b7-4151-a586-34ba78cc9f32.jpg)
 
 
-![Diseño-Banner](https://user-images.githubusercontent.com/88751880/174690322-be79d767-2ec2-43d7-b5c4-1fd97fa1e6f1.jpg)
 
 
 **FlorenciaPalazzo/FlorenciaPalazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
