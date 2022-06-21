@@ -20,7 +20,6 @@
 🛢Base de datos:
   ◻PostgreSQL
 
-
 💬 Podes preguntarme acerca de: JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequelize.
   
 📫 Mi mail: florencia.e.palazzo@gmail.com
