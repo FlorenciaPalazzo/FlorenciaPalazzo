@@ -1,27 +1,31 @@
 
 
 
-![Diseño-Banner](https://user-images.githubusercontent.com/88751880/174934648-bfb8e9ef-54eb-47f8-9911-3cfd85733bc0.jpg)
+
+![Diseño-Banner](https://user-images.githubusercontent.com/88751880/175365117-d40c3456-4e6b-4177-a939-4305d7e668ad.jpg)
 
 
 
-<h4>Soy Developer Full Stack con capacidad de desarrollar proyectos web, teniendo siempre presente que sean escalables y modularizables en el tiempo. Apasionada por el mundo de la programación , me gusta mucho poder crear soluciones y resolver problemas , siempre dispuesta a aprender mas , ya que soy una desarrolladora que le gusta enseñar y aprender de los demás.</h4>
+<h4>
 
-<h3>Tecnologías:</h3>
+I'm Developer Full Stack with the ability to develop web projects. With the passage of time, this jobs will be scalables and modurables. I am passionate about the world of programming. I like create solutions and also resolve problems. I 'm available to learn more because I like teach and learn from other persons.
+</h4>
 
-➡Frontend:</br>
+<h3>Technologies:</h3>
+
+↪Frontend:</br>
     js: React, Redux </br>
     css: Bootstrap
 
-⬅Backend:</br>
+↩Backend:</br>
     js:Node, Express
 
-🛢Base de datos:</br>
+🛢Data base:</br>
     PostgreSQL
 
-💬 Podes preguntarme acerca de: JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequelize.
+💬 You can ask me about: JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequelize.
   
-<h3> Contacto:</h3>
+<h3> Contact:</h3>
 📫florencia.e.palazzo@gmail.com
 
 <p align="left">
@@ -35,7 +39,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a>
+<!--<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a>-->
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
