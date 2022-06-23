@@ -8,7 +8,7 @@
 
 <h4>
 
-I'm Developer Full Stack with the ability to develop web projects. With the passage of time, this jobs will be scalables and modurables. I am passionate about the world of programming. I like create solutions and also resolve problems. I 'm available to learn more because I like teach and learn from other persons.
+I'm Developer Full Stack with the ability to develop web projects. With the passage of time, this jobs are scalables and modurables. I am passionate about the world of programming. I like create solutions and also resolve problems. I 'm available to learn more because I like teach and learn from other persons.
 </h4>
 
 <h3>Technologies:</h3>
